@@ -60,7 +60,6 @@ Created By Scynrays
 
 9.Enter the generated URL into your web browser, then add your bot to your server.
 
-![image](https://github.com/user-attachments/assets/70e86046-32fe-4a60-b7f6-59da628a7e02)
 
 </details>
 
